@@ -12,6 +12,6 @@
 
 ## Uso
 
-Simplemente descarga el archivo SVG y úsalo en tus proyectos. Puedes personalizar los colores y tamaños según tus necesidades. Aquí tienes un ejemplo de cómo puedes incluir la rana en tu código HTML:
+Simplemente descarga el archivo SVG y úsalo en tus proyectos. Puedes personalizar los colores y tamaños según tus necesidades.
 
 ![Frog](/preview.jpg)
